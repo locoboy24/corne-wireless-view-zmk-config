@@ -16,10 +16,10 @@ layers:
   - '0'
   - BSPC
   - LEFT CONTROL
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Sft+ LEFT ARROW
+  - Sft+ DOWN
+  - Sft+ UP
+  - Sft+ RIGHT
   - {t: ▽, type: trans}
   - LEFT
   - DOWN
