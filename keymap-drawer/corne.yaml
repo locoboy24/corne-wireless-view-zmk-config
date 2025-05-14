@@ -1,4 +1,4 @@
-layout: {qmk_keyboard: corne_rotated, qmk_layout: LAYOUT_split_3x6_3}
+layout: {zmk_keyboard: corne}
 layers:
   Base: [TAB, Q, W, E, R, T, Y, U, I, O, P, BSPC, LCTRL, A, S, D, F, G, H, J, K, L, ;, '''', '&shift_dance', Z, X, C, V, B, N, M, ',', ., /, ESC, LGUI, Lower, SPACE,
     RET, Raise, RALT]
@@ -14,12 +14,12 @@ layers:
   - '8'
   - '9'
   - '0'
-  - DEL
+  - BACKSPACE
   - LEFT CONTROL
-  - Sft+ LEFT ARROW
-  - Sft+ DOWN
-  - Sft+ UP
-  - Sft+ RIGHT
+  - Sft+LEFT ARROW
+  - Sft+DOWN
+  - Sft+UP
+  - Sft+RIGHT
   - {t: ▽, type: trans}
   - LEFT
   - DOWN
@@ -57,7 +57,7 @@ layers:
   - KP MULTIPLY
   - (
   - )
-  - BSPC
+  - DELETE
   - LCTRL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
